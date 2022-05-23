@@ -1,0 +1,6 @@
+module Pods_ADI_APP_ADI_APPTests {
+  umbrella header "Pods-ADI_APP-ADI_APPTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
